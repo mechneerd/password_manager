@@ -81,7 +81,7 @@ website_space.focus()
 email_space = Entry()
 email_space.config(width=41)
 email_space.grid(row=2, column=1, columnspan=2)
-email_space.insert(0, 'prasanth@gamil.com')
+email_space.insert(0, 'prasanth@gmail.com')
 
 password_space = Entry()
 password_space.config(width=21)
